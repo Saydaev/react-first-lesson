@@ -40,6 +40,12 @@ body {
     width: 710px;
     justify-content: space-evenly;
 }
+button {
+    border: none;
+}
+button:hover {
+    border: none;
+}
 .blue-btn, .orange-btn, .gray-btn {
     width: 200px;
     text-align: center;

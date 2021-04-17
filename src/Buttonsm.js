@@ -23,9 +23,9 @@ function Buttonsm(props) {
     
     return (
         <div className='buttonsm'>
-            <div className='blue-btn' onClick={plus}>Увеличить</div>
-            <div className='orange-btn' onClick={minus}>Уменьшить</div>
-            <div className='gray-btn' onClick={reset}>Сбросить</div>
+            <button className='blue-btn' onClick={plus}>Увеличить</button>
+            <button className='orange-btn' onClick={minus}>Уменьшить</button>
+            <button className='gray-btn' onClick={reset}>Сбросить</button>
         </div>
     );
 }
