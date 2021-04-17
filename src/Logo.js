@@ -4,7 +4,7 @@ import logo from './logo.svg';
 function Logo(props) {
     return (
         <div>
-            <img src={logo} />
+            <img src={logo} alt='logotype' />
         </div>
     );
 }

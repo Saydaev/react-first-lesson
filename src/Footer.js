@@ -4,7 +4,7 @@ import footerLogo from './footer-logo.svg';
 function Footer(props) {
     return (
         <div className='footer'>
-            <div className='footer-logo'><img src={footerLogo} /></div>
+            <div className='footer-logo'><img src={footerLogo} alt='logotype' /></div>
             <div>
                 <ul className='footer-menu'>
                     <li>Партнерам</li>

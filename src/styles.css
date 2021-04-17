@@ -1,3 +1,9 @@
+* {
+    font-family: Gilroy;
+}
+body {
+    margin: 0;
+}
 .app {
     width: 770px;
     margin: auto;
