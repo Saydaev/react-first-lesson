@@ -1,0 +1,30 @@
+.app {
+    width: 500px;
+    margin: auto;
+}
+input {
+    width: 400px;
+    margin-bottom: 15px;
+}
+.text {
+    margin-bottom: 15px;
+}
+.button {
+    width: 100px;
+    height: 35px;
+    background: blue;
+    font-weight: bold;
+    color: white;
+}
+.btn {
+    width: 100px;
+    margin: auto;
+}
+.flex {
+    display: flex;
+    justify-content: space-between;
+}
+.show-btn {
+    width: 70px;
+    height: 22px;
+}
